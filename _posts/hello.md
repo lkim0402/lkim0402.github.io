@@ -1,5 +1,6 @@
 ---
-title: Hey!
+layout: post
+title: "Hey!"
 date: 2022-04-05 12:00:00 -500
 categories: [random, life]
 tags: [servers, tag, tags]
